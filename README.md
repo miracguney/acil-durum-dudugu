@@ -1,6 +1,7 @@
 # Acil durum sesleri
 
-A new Flutter project.
+Acil durumlarda, yardıma ihtiyacınız olduğunda, sesinizi duyuramadığınızda;
+ekran kapalıyken çalışabilen ve sürekli tekrar eden, yüksek sesli acil durum sesleri içeren uygulama.
 
 <table align= "center">
  
